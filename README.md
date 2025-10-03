@@ -1,6 +1,6 @@
 # Master MVA (2025–2026)
 
-> Mathématiques, Vision, Apprentissage — ENS Paris-Saclay & IP Paris
+> Mathématiques, Vision, Apprentissage — ENS Paris-Saclay
 
 This repository contains my personal work, notes, and projects for the **Master MVA (M2, 2025–2026)**.
 
