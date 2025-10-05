@@ -16,7 +16,7 @@ This repository contains my personal work, notes, and projects for the **Master 
 | Deep Learning                                             |                                                                                                                                                                                         |
 | Geometric Data Analysis                                   |                                                                                                                                                                                         |
 | Robotics                                                  |                                                                                                                                                                                         |
-| Time Series                                               |                                                                                                                                                                                         |
+| Time Series                                               |  [Course page](https://www.laurentoudre.fr/ast.html)                                                                                                                                                                                        |
 | Convex Optimization: Algorithms and Applications          |                                                                                                                                                                                         |
 
 ---
