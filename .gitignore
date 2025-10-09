@@ -1,0 +1,13 @@
+.DS_Store
+ALTEGRAD/TP1/data/vocab_target.json
+ALTEGRAD/TP1/data/vocab_source.json
+ALTEGRAD/TP1/data/pairs_test_ints.txt
+ALTEGRAD/TP1/__MACOSX/data/._vocab_target.json
+ALTEGRAD/TP1/__MACOSX/data/._vocab_source.json
+ALTEGRAD/TP1/__MACOSX/data/._README.txt
+ALTEGRAD/TP1/__MACOSX/data/._pairs_train_ints.txt
+ALTEGRAD/TP1/__MACOSX/data/._pairs_test_ints.txt
+ALTEGRAD/TP1/__MACOSX/._data
+ALTEGRAD/TP1/pretrained_moodle.pt
+ALTEGRAD/TP1/my_model.pt
+ALTEGRAD/TP1/data.zip
